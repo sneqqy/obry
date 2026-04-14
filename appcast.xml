@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <title>Obry Updates</title>
+        <item>
+            <title>Version 1.1.0</title>
+            <description><![CDATA[
+                <h2>What's New in Obry 1.1.0</h2>
+                <ul>
+                    <li>This is a test update to verify Sparkle integration</li>
+                    <li>Auto-update system is now active</li>
+                </ul>
+            ]]></description>
+            <pubDate>Mon, 14 Apr 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/sneqqy/obry/releases/download/v1.1.0/Obry.zip"
+                type="application/octet-stream"
+                sparkle:version="2"
+                sparkle:shortVersionString="1.1.0"
+                length="0"
+            />
+        </item>
+    </channel>
+</rss>
