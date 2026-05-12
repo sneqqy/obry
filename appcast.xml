@@ -1,8 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Obry Updates</title>
-        <description>Most recent changes with links to updates.</description>
-        <language>en</language>
+        <title>Obry</title>
+        <item>
+            <title>1.0.1</title>
+            <pubDate>Tue, 12 May 2026 19:41:45 +0300</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/sneqqy/obry/releases/download/v1.0.1/Obry-1.0.1.dmg" length="6900583" type="application/octet-stream" sparkle:edSignature="GQHaBuOVfr2oU2A3EfQQqTPk00HFg32JHKjNExIFiSa9uh9S6iUJUy62eWtpO958frUJn+NZn/ib72BJHorfAw=="/>
+        </item>
     </channel>
 </rss>
