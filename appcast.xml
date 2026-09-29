@@ -3,6 +3,14 @@
     <channel>
         <title>Obry</title>
         <item>
+            <title>1.1.1</title>
+            <pubDate>Wed, 30 Sep 2026 00:51:13 +0300</pubDate>
+            <sparkle:version>118</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/sneqqy/obry/releases/download/v1.1.1/Obry.dmg" length="8160159" type="application/octet-stream" sparkle:edSignature="t9OvGG58glovDm/ChQy2DMmIzgqkRD7QXPyJ8999uxx6CG1mLxrRYwVRMb4XP6C76+mWbbUpuEWKy7LH2jowDw=="/>
+        </item>
+        <item>
             <title>1.1.0</title>
             <pubDate>Sun, 27 Sep 2026 12:52:22 +0300</pubDate>
             <sparkle:version>117</sparkle:version>
