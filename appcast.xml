@@ -3,6 +3,15 @@
     <channel>
         <title>Obry</title>
         <item>
+            <title>1.2.0</title>
+            <pubDate>Sun, 04 Oct 2026 20:25:09 +0300</pubDate>
+            <description>A new Settings with every shortcut in one place, cards you move, throw and drop with two fingers, and throws that land where you aim.</description>
+            <sparkle:version>119</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/sneqqy/obry/releases/download/v1.2.0/Obry.dmg" length="9639715" type="application/octet-stream" sparkle:edSignature="x00WNdjDo73RE4+9T+nuFxARiqKre+lLugso8LteVb2Bn4zAYAB4FI7s4+PtwuFyCViaimQxMUgaRcmpL6zLBQ=="/>
+        </item>
+        <item>
             <title>1.1.1</title>
             <pubDate>Wed, 30 Sep 2026 00:51:13 +0300</pubDate>
             <sparkle:version>118</sparkle:version>
