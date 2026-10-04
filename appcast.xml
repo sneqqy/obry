@@ -5,7 +5,7 @@
         <item>
             <title>1.2.0</title>
             <pubDate>Sun, 04 Oct 2026 20:25:09 +0300</pubDate>
-            <description>A new Settings with every shortcut in one place, cards you move, throw and drop with two fingers, and throws that land where you aim.</description>
+            <description>New Settings, shortcuts you set yourself, and cards you move with two fingers.</description>
             <sparkle:version>119</sparkle:version>
             <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
