@@ -5,7 +5,7 @@
         <item>
             <title>1.2.0</title>
             <pubDate>Sun, 04 Oct 2026 20:25:09 +0300</pubDate>
-            <description>A new Settings, shortcuts you set yourself, and cards you move with two fingers.</description>
+            <description>A redesigned Settings where you can change every shortcut, and cards you move, throw and drop with two fingers on the trackpad. Throws land where your fingers go, and capture, Recents and docked cards are all faster.</description>
             <sparkle:version>119</sparkle:version>
             <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
