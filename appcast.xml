@@ -3,6 +3,15 @@
     <channel>
         <title>Obry</title>
         <item>
+            <title>1.2.1</title>
+            <pubDate>Mon, 05 Oct 2026 18:24:54 +0300</pubDate>
+            <description>Hotfix: docked cards no longer show beside the screen edge when you switch desktops.</description>
+            <sparkle:version>120</sparkle:version>
+            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/sneqqy/obry/releases/download/v1.2.1/Obry.dmg" length="9639668" type="application/octet-stream" sparkle:edSignature="9hh91Iw/yIyS6wWxGXiqVL9HnQ67IGluqukf9cLyFTC7GzpMyYk2BH5b1ibePfIov4WYgkgKy5FSvojUStM+DQ=="/>
+        </item>
+        <item>
             <title>1.2.0</title>
             <pubDate>Sun, 04 Oct 2026 20:25:09 +0300</pubDate>
             <description>A redesigned Settings where you can change every shortcut, and cards you move, throw and drop with two fingers on the trackpad. Throws land where your fingers go, and capture, Recents and docked cards are all faster.</description>
