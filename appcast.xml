@@ -3,6 +3,15 @@
     <channel>
         <title>Obry</title>
         <item>
+            <title>1.2.2</title>
+            <pubDate>Wed, 14 Oct 2026 18:16:24 +0300</pubDate>
+            <description>Minor improvements and bug fixes.</description>
+            <sparkle:version>121</sparkle:version>
+            <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/sneqqy/obry/releases/download/v1.2.2/Obry.dmg" length="9682868" type="application/octet-stream" sparkle:edSignature="RHtpHLLWsoxp8YWRyfLloVfVSIhJQckmn19cjOgwZhK0rEjkkkP5P8ErOpJ6w5l4Iv8TSeyFbP2SgD2bneqmDg=="/>
+        </item>
+        <item>
             <title>1.2.1</title>
             <pubDate>Mon, 05 Oct 2026 18:24:54 +0300</pubDate>
             <description>Hotfix: docked cards no longer show beside the screen edge when you switch desktops.</description>
