@@ -3,15 +3,6 @@
     <channel>
         <title>Obry</title>
         <item>
-            <title>1.3.0</title>
-            <pubDate>Sun, 25 Oct 2026 12:11:48 +0200</pubDate>
-            <description>New freeform capture, two-finger undocking, new rules for cards near the Dock, and other fixes and improvements.</description>
-            <sparkle:version>122</sparkle:version>
-            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/sneqqy/obry/releases/download/v1.3.0/Obry.dmg" length="9960113" type="application/octet-stream" sparkle:edSignature="uPwqIhR6qKokmuT7KQBYCjQU277PB1bilqOUAj9nxEt6l6f2fLKYzd00lTp/8Fmgg+sF1rxAcvMfY4JOOeUVCg=="/>
-        </item>
-        <item>
             <title>1.2.2</title>
             <pubDate>Wed, 14 Oct 2026 18:16:24 +0300</pubDate>
             <description>Minor improvements and bug fixes.</description>
